@@ -1,0 +1,6 @@
+{
+  "name": "The Gym Town",
+  "description": "A modern, professional gym website for The Gym Town in Panipat, featuring responsive design, animations, and zero-framework Vanilla JS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
